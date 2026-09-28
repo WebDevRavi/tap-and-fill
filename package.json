@@ -1,0 +1,16 @@
+{
+  "name": "tap-and-fill",
+  "version": "2.1.0",
+  "description": "Tap & Fill — Soothing Vector Color by Number Web Game",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node dev.js",
+    "build": "node build.js",
+    "package": "node package-crazygames.js",
+    "serve": "node dev.js"
+  },
+  "devDependencies": {
+    "vite": "^6.1.0"
+  }
+}
