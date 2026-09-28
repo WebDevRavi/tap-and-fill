@@ -2,6 +2,7 @@
   "name": "tap-and-fill",
   "version": "2.1.0",
   "description": "Tap & Fill — Soothing Vector Color by Number Web Game",
+  "homepage": "https://tapfill.vercel.app/",
   "private": true,
   "type": "module",
   "scripts": {
